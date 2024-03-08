@@ -13,4 +13,6 @@ window.addEventListener("load", function() {
         // Below this comment call the appropriate helper functions to pick a planet fom the list of planets and add that information to your destination.
     })
     //add event listener for button
+    // declare each of the items in formSubmission
+    // call formSubmission
  }); 
