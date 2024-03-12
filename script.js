@@ -28,5 +28,7 @@ window.addEventListener("load", function() {
         let { name, diameter, star, distance, moons, image } = myPickedPlanet;
         addDestinationInfo(document, name, diameter, star, distance, moons, image);
     })
-    
+    //add event listener for button
+    // declare each of the items in formSubmission
+    // call formSubmission
  });
